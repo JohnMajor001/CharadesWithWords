@@ -50,6 +50,7 @@ function round() {
       var randomObject = object[rando];
       word.innerHTML = `Describe: ${randomObject}`;
       object.splice(rando, 1);
+      score++;
     }
   }
   function passedWord() {

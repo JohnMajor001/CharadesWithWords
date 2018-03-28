@@ -9,3 +9,4 @@ var pass = document.getElementById('pass')
 var numberForTimer = 30;
 var timesUpMessage = "Time's up!";
 var noOfPasses = 0;
+var score = 0;
